@@ -73,7 +73,7 @@ Proposals:
     initial_voting_period: 4 days
 
 
-    maximum_wait_for_quiet_deadline_extension: 1 day
+    maximum_wait_for_quiet_deadline_extension: 12 hours
 
 
 Neurons:
