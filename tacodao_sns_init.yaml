@@ -411,434 +411,434 @@ Distribution:
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: 23jeh-d4pjo-r2biy-e6hrf-tgo36-xqjrg-kkk5h-lmw7p-rch6o-rz2aa-xqe
+          stake: 64.339 tokens
           memo: preswap1
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: 27vqm-f7gca-wl3wg-l4jpo-nk5qy-ilno5-dbul4-o2dtm-lx47t-p3mss-hqe
+          stake: 54.49 tokens
           memo: preswap2
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: 2wmby-gko3z-xfjgi-uv57e-fxcgp-ud4i6-7mzx6-ppsqz-fiun2-2i6lw-gqe
+          stake: 3218.507 tokens
           memo: preswap3
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: 3anjr-llocx-dp2gc-3tmrr-jw72g-t5iuj-lxu3d-actqu-r2zea-duwtq-gae
+          stake: 1752.752 tokens
           memo: preswap4
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: 3cey4-x5hdl-6ar47-vzvne-bcgig-wbzih-e5bqe-r6nqc-ld362-xpo5o-6qe
+          stake: 3474.477 tokens
           memo: preswap5
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: 3fzac-spyl6-7s5ez-pmbrz-43lpv-vdiqs-ifg4w-j6fr6-jw3hc-7cs4g-oae
+          stake: 1072.192 tokens
           memo: preswap6
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: 55zes-vjwak-gvak7-fujom-m5rbn-bzzpm-uceeq-37kwq-uhtrn-gfs7a-xqe
+          stake: 22.562 tokens
           memo: preswap7
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: 5eqqt-dn7z5-ygt22-qwqgq-odbia-monel-xrbcl-dma6f-azblt-5vjao-vae
+          stake: 78.436 tokens
           memo: preswap8
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: 6fr5a-2yplr-mhopt-s2nm3-6g6pf-iilmu-tlbcm-mtqiq-rl36j-u7zdz-lae
+          stake: 48.246 tokens
           memo: preswap9
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: 6lrxa-2ndwl-qhzbc-ioyy4-xiz6m-ix4by-3keek-mnybf-maa2a-4uiwt-tqe
+          stake: 289.636 tokens
           memo: preswap10
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: 6pboj-hqydn-rcw4e-hbfvf-z4ry6-lfhae-hif5i-xyhjk-f3sx6-opu6i-5qe
+          stake: 1687.126 tokens
           memo: preswap11
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: 7cde5-5jf43-ilqvi-7fzck-dr3yi-mkqzs-jmgk3-6rkqu-fwfxa-grlqy-jae
+          stake: 2574.831 tokens
           memo: preswap12
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: a7fmp-cphq4-zsogk-t6geo-kl5i2-aiwo5-5as3v-6ajmf-dcbf4-swk4s-nae
+          stake: 52.462 tokens
           memo: preswap13
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: akt5s-36ibp-4mr4j-nbhke-lhobx-plyew-akltb-j7o4b-km5a3-4ahfk-7qe
+          stake: 3218.539 tokens
           memo: preswap14
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: avvcg-57xqm-y237l-72e5a-nkjqc-rldvf-f4sqf-guqyc-ftyvz-ynkvq-aae
+          stake: 3218.539 tokens
           memo: preswap15
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: bk5xz-35tcj-xreap-v2k2c-qfb5s-ebqts-pgbzt-jgurm-sm37j-dzt3n-qae
+          stake: 8046.315 tokens
           memo: preswap16
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: bkvir-7x7is-fq7oc-wt2ww-bd5cj-cqcxd-7v4oz-cqgvu-6igrm-hdwyh-kqe
+          stake: 112.649 tokens
           memo: preswap17
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: bl27y-zbrn3-x5uqq-jjioh-5huze-wrc7w-xojq2-lmiz2-zhmjh-kask7-cae
+          stake: 78.371 tokens
           memo: preswap18
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: d5jbw-krtiv-v5xi4-jj6cf-53euc-vlcbd-u73lb-wlwdj-a5ijb-evlu4-qqe
+          stake: 49.533 tokens
           memo: preswap19
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: da75w-jugs2-msyl4-axbqa-ikp2t-ynw5z-2fa5s-4aanh-vc7pq-wsx3p-4qe
+          stake: 541.712 tokens
           memo: preswap20
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: dew4p-qrten-wh6kq-5cf2b-iccms-7sddu-n2tb2-h7ya4-smfl5-b3xvr-vae
+          stake: 70807.885 tokens
           memo: preswap21
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: dhr23-lj7p6-o4hkt-eit2h-zeeq3-utkap-44s5j-i2iii-aq3vg-a5mw7-iae
+          stake: 195.494 tokens
           memo: preswap22
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: dhuwx-kqlto-bb5dp-2kspf-synyx-ob5mp-d3lm2-4drxb-vuyqz-ngacb-xae
+          stake: 1995.494 tokens
           memo: preswap23
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: du2hj-tshoj-jbjx4-mwky6-omtlq-d3jco-ezipl-bspok-4q266-nok3f-pae
+          stake: 64.371 tokens
           memo: preswap24
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: fiwvk-zuqh4-g76jn-qrvoy-7o5gt-bmher-2t3w7-tjitw-nfva4-zz76e-vqe
+          stake: 321.854 tokens
           memo: preswap25
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: fywqa-zjhpp-bq2pt-jffa7-uj6rd-oeekx-vzxau-vgwx5-q3csk-mkchj-2qe
+          stake: 7,241.68 tokens
           memo: preswap26
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: gw2tx-okzsj-guu5h-gwrxn-fxcln-llxem-jq72l-l5s6l-5ecso-vp6it-2qe
+          stake: 965.562 tokens
           memo: preswap27
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: h2x7q-tcgpl-ucfmu-25elq-k6w2g-x66ys-qdpup-gq2as-a53gz-3xqkk-zqe
+          stake: 160.927 tokens
           memo: preswap28
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: hwhf2-rnn6m-grlmk-zc3sv-5retg-jbvln-34b7z-dfseq-uhr4k-z6qyh-iqe
+          stake: 440.393 tokens
           memo: preswap29
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: hxdpn-hxyoy-em7uq-73yoz-fcese-vwdzn-fcdtu-p746p-e3fkm-rxnhk-cqe
+          stake: 321.854 tokens
           memo: preswap30
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: hzvyx-jcnle-d6hhi-fu45u-pg37d-zwl7x-suwjt-cxq22-yabqt-dyfkn-lae
+          stake: 32.121 tokens
           memo: preswap31
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: jlnim-ndomu-4hl3t-r6o7p-pkm5l-cttwg-rists-selxo-gjjxp-p4icb-3qe
+          stake: 9.205 tokens
           memo: preswap32
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: kijn6-5ymv2-ydbe4-zpl7f-qhqqa-jyisr-gclsj-dcssk-lhvjx-waftf-xae
+          stake: 27.873 tokens
           memo: preswap33
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: kw4sb-dhue6-xjrjw-bda5p-cks2x-gx4g7-5a556-6hmye-wugaj-7fnlp-sae
+          stake: 64.339 tokens
           memo: preswap34
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: kzbxd-boy4u-lqwho-n5pdb-ryqbs-fgt3t-zz326-7p3qv-6qrkv-h7fzy-lqe
+          stake: 16092.694 tokens
           memo: preswap35
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: ldxgi-yc5wv-nvn5f-njjqy-3van2-crrdf-c435z-43qbv-4czm2-hhblr-tae
+          stake: 5088.381 tokens
           memo: preswap36
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: mqirh-3biw7-id5dy-zcul7-6bvbc-itpdf-y5jbz-yp6af-qriid-5ltfv-yae
+          stake: 89354.393 tokens
           memo: preswap37
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: ne7kl-gpbub-bzqox-jepql-fiffs-lltfm-as5vy-3zfnj-m63nc-xlmzm-yqe
+          stake: 24.783 tokens
           memo: preswap38
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: nhcrb-c6m6o-nkieh-dilkt-rbh2p-clpf3-rlhal-xyeio-4uc4t-fnbau-wqe
+          stake: 31.509 tokens
           memo: preswap39
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: nhy7q-5rxxy-ewb4p-jbf3m-k65jc-oio6v-te3rm-7q46j-vj5qk-ghgmz-zqe
+          stake: 2474.348 tokens
           memo: preswap40
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: novsc-cp6nd-sxkze-uow46-jyfvx-msuz2-jc7u5-gidgu-xdwk2-myhi4-nae
+          stake: 657.226 tokens
           memo: preswap41
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: pdhei-a4jbj-ppbeu-tttgi-bztde-nhbo4-ag7gz-ibgyj-mauoh-yj2xs-gqe
+          stake: 19311.233 tokens
           memo: preswap42
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: peg2s-47dqj-7dnez-bznad-kclyo-rxbc7-oor7s-wc3kx-e5k23-ziivp-oqe
+          stake: 60.154 tokens
           memo: preswap43
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: qh4re-vreux-3p32r-eqhxe-ssudb-335wx-szled-5qj5n-sm2qq-uaafy-aae
+          stake: 71471.773 tokens
           memo: preswap44
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: qjrwc-czcqg-p5sji-abmay-mx4h6-go6w5-jhzur-aqxk6-mmvbb-jteuw-kae
+          stake: 1577.309 tokens
           memo: preswap45
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: rypm6-ztvpz-aqr5r-4jpsy-gmh53-jwcir-uhjdi-x7x5n-qqmdr-zsmyd-oae
+          stake: 1287.576 tokens
           memo: preswap46
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: s2swy-pdmzf-izjde-gi7cq-zttmz-emwkg-5z7ov-jadyg-nrdhv-yuvt2-oqe
+          stake: 311.78 tokens
           memo: preswap47
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: sbmbj-iieo2-orclf-ezqk7-6sa7m-xzays-m2bqs-dvxrm-keccv-4sqpb-xae
+          stake: 128.581 tokens
           memo: preswap48
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: th65x-be7bq-thkki-clkqi-kpt5z-td2ji-rnz7r-jzk6i-zsj4o-fd3yb-uae
+          stake: 64370.776 tokens
           memo: preswap49
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: tqmhw-xn3cw-cr23r-iukbw-ikxuy-e72q7-gjhoh-m6nes-ndvkm-uwuwe-5qe
+          stake: 17885.742 tokens
           memo: preswap50
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: ts5dq-faniq-2bn2h-dl6gs-vv3kq-fybtv-mec5r-har4z-7ntf3-hlmq4-eqe
+          stake: 16.994 tokens
           memo: preswap51
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: u5lmu-dvijl-hjww7-webdf-wa5jo-6mkuy-gixvd-g7ris-dkliz-wlp5z-gae
+          stake: 48.632 tokens
           memo: preswap52
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: udwan-tftk5-lx7ud-nwguf-yevoi-jnkjl-jx73d-rdvyo-x4gkw-5gvdt-gae
+          stake: 129.707 tokens
           memo: preswap53
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: urk53-t6zhj-tlbze-taf77-ipjez-dpg3u-32pzb-qt2ma-nu7z7-yrcwl-jqe
+          stake: 1609.269 tokens
           memo: preswap54
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: uwpik-bzywz-l7bgr-zjgvi-e4p5w-jx6ht-2kvqj-eqfw3-ztmbv-zhh5w-zae
+          stake: 57.161 tokens
           memo: preswap55
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: vfhdx-67tj7-akypt-6a6fx-yqzlr-3om4p-a7cem-qkozv-76oie-ghfgv-jae
+          stake: 2860.895 tokens
           memo: preswap56
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: vfyof-aihmz-jb2op-wv3go-txe4r-wi3a2-xohme-osl3b-uri3t-t7dl4-3ae
+          stake: 12078.436 tokens
           memo: preswap57
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: vwgrw-6ul3g-dkfxb-bqwgl-7tqnl-qj5gu-dddwr-yqbhl-oexn7-cirgc-bae
+          stake: 14304.603 tokens
           memo: preswap58
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: vwj6s-d3xkw-o662o-d32pg-ruywn-t5ju5-qrpq4-4bmam-4flwh-h7iuj-jae
+          stake: 1609.269 tokens
           memo: preswap59
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: vxcwu-gomi2-cygro-6urwk-rrsry-rnkxa-cf5dn-4kkoy-p4m42-xfyky-xqe
+          stake: 3218.539 tokens
           memo: preswap60
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: wqb4a-vvmv7-zvusl-wbfwl-ofqqm-ajnlw-jz76m-5jpbi-rvfkr-lemtg-cqe
+          stake: 804.635 tokens
           memo: preswap61
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: wti6j-2wasq-s4l3g-wt34m-cpgvz-yv342-r6tmp-rd4wq-hqxbc-5gl7l-rae
+          stake: 2883.135 tokens
           memo: preswap62
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: xcdmb-5s24s-xuxsr-tglqd-stufc-dzs5z-izgv3-kuefn-xdbda-xdi4o-kqe
+          stake: 71523.045 tokens
           memo: preswap63
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: xdrff-dgnfa-tyz6k-pkv4t-6o7ld-coizs-bbkie-3fubh-wiv65-6ppqf-iae
+          stake: 250.274 tokens
           memo: preswap64
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: xgid6-47muo-sqfb3-ca73y-5v7n2-2xxik-6js2n-wexwz-efvti-gxpgd-xqe
+          stake: 17937.979 tokens
           memo: preswap65
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: xpgm6-tejxr-zze2n-uoe3k-2xhp3-qd54f-dyf5t-qt5we-yysbz-7jb45-5ae
+          stake: 965.562 tokens
           memo: preswap66
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: xuvka-t2ead-dsqhi-beknk-lbmbz-th73q-26oib-bfa4k-5nowc-3ozuo-5qe
+          stake: 102993.241 tokens
           memo: preswap67
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: xvfo2-6jufv-xvkzj-pe5w4-do4ig-iatdu-7j7ke-cxjer-qqoir-go27i-tae
+          stake: 3540.393 tokens
           memo: preswap68
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: yh6dk-6v5qv-42xyz-yjrqf-shoj4-wrlyh-6sdgo-5rebe-3gcbp-4c43b-qqe
+          stake: 836.724 tokens
           memo: preswap69
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: ynrus-kahov-2gbya-nsb37-qj56o-dfq3i-ojrxs-ezv2f-sjfwg-4urfh-aqe
+          stake: 81.622 tokens
           memo: preswap70
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: zeukl-vls3q-3s2rr-2u5ni-3jnfs-zuswb-vvzew-tridf-o7lf6-ernj2-bqe
+          stake: 321.854 tokens
           memo: preswap71
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: zp44o-gi6or-cs34n-dpevy-f4knm-vz5sb-5hbht-hsef6-xb7ij-jtuzq-iqe
+          stake: 37978.693 tokens
           memo: preswap72
           dissolve_delay: 0
           vesting_period: 0
