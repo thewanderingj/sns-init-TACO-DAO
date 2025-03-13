@@ -117,164 +117,164 @@ Distribution:
 
     Neurons:
    
-        - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+        - principal: th65x-be7bq-thkki-clkqi-kpt5z-td2ji-rnz7r-jzk6i-zsj4o-fd3yb-uae
+          stake: 58595.738 tokens
           memo: founder1
           dissolve_delay: 1 month
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: th65x-be7bq-thkki-clkqi-kpt5z-td2ji-rnz7r-jzk6i-zsj4o-fd3yb-uae
+          stake: 37037 tokens
           memo: founder2
           dissolve_delay: 1 month
           vesting_period: 2 months
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: th65x-be7bq-thkki-clkqi-kpt5z-td2ji-rnz7r-jzk6i-zsj4o-fd3yb-uae
+          stake: 37037 tokens
           memo: founder3
           dissolve_delay: 1 month
           vesting_period: 5 months
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: th65x-be7bq-thkki-clkqi-kpt5z-td2ji-rnz7r-jzk6i-zsj4o-fd3yb-uae
+          stake: 37037 tokens
           memo: founder4
           dissolve_delay: 1 month
           vesting_period: 8 months
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: th65x-be7bq-thkki-clkqi-kpt5z-td2ji-rnz7r-jzk6i-zsj4o-fd3yb-uae
+          stake: 37037 tokens
           memo: founder5
           dissolve_delay: 1 month
           vesting_period: 11 months
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: th65x-be7bq-thkki-clkqi-kpt5z-td2ji-rnz7r-jzk6i-zsj4o-fd3yb-uae
+          stake: 37037 tokens
           memo: founder6
           dissolve_delay: 1 month
           vesting_period: 14 months
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: th65x-be7bq-thkki-clkqi-kpt5z-td2ji-rnz7r-jzk6i-zsj4o-fd3yb-uae
+          stake: 37037 tokens
           memo: founder7
           dissolve_delay: 1 month
           vesting_period: 17 months
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: th65x-be7bq-thkki-clkqi-kpt5z-td2ji-rnz7r-jzk6i-zsj4o-fd3yb-uae
+          stake: 37037 tokens
           memo: founder8
           dissolve_delay: 1 month
           vesting_period: 20 months
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: th65x-be7bq-thkki-clkqi-kpt5z-td2ji-rnz7r-jzk6i-zsj4o-fd3yb-uae
+          stake: 37037 tokens
           memo: founder9
           dissolve_delay: 1 month
           vesting_period: 23 months
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: llfag-3kg4c-3kitv-fz3kg-xia7l-ya4u6-u577s-hzm7x-o2pdr-likn5-lqe
+          stake: 50363 tokens
           memo: founder10
           dissolve_delay: 1 month
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: llfag-3kg4c-3kitv-fz3kg-xia7l-ya4u6-u577s-hzm7x-o2pdr-likn5-lqe
+          stake: 37037 tokens
           memo: founder11
           dissolve_delay: 1 month
           vesting_period: 2 months
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: llfag-3kg4c-3kitv-fz3kg-xia7l-ya4u6-u577s-hzm7x-o2pdr-likn5-lqe
+          stake: 37037 tokens
           memo: founder12
           dissolve_delay: 1 month
           vesting_period: 5 months
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: llfag-3kg4c-3kitv-fz3kg-xia7l-ya4u6-u577s-hzm7x-o2pdr-likn5-lqe
+          stake: 37037 tokens
           memo: founder13
           dissolve_delay: 1 month
           vesting_period: 8 months
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: llfag-3kg4c-3kitv-fz3kg-xia7l-ya4u6-u577s-hzm7x-o2pdr-likn5-lqe
+          stake: 37037 tokens
           memo: founder14
           dissolve_delay: 1 month
           vesting_period: 11 months
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: llfag-3kg4c-3kitv-fz3kg-xia7l-ya4u6-u577s-hzm7x-o2pdr-likn5-lqe
+          stake: 37037 tokens
           memo: founder15
           dissolve_delay: 1 month
           vesting_period: 14 months
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: llfag-3kg4c-3kitv-fz3kg-xia7l-ya4u6-u577s-hzm7x-o2pdr-likn5-lqe
+          stake: 37037 tokens
           memo: founder16
           dissolve_delay: 1 month
           vesting_period: 17 months
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: llfag-3kg4c-3kitv-fz3kg-xia7l-ya4u6-u577s-hzm7x-o2pdr-likn5-lqe
+          stake: 37037 tokens
           memo: founder17
           dissolve_delay: 1 month
           vesting_period: 20 months
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: llfag-3kg4c-3kitv-fz3kg-xia7l-ya4u6-u577s-hzm7x-o2pdr-likn5-lqe
+          stake: 37037 tokens
           memo: founder18
           dissolve_delay: 1 month
           vesting_period: 23 months
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: vrufp-cpibm-w6oja-wge3x-suodi-kohf3-walgv-ieywu-52fdx-ccrkq-lqe
+          stake: 30374 tokens
           memo: founder19
           dissolve_delay: 1 month
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: vrufp-cpibm-w6oja-wge3x-suodi-kohf3-walgv-ieywu-52fdx-ccrkq-lqe
+          stake: 37037 tokens
           memo: founder20
           dissolve_delay: 1 month
           vesting_period: 2 months
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: vrufp-cpibm-w6oja-wge3x-suodi-kohf3-walgv-ieywu-52fdx-ccrkq-lqe
+          stake: 37037 tokens
           memo: founder21
           dissolve_delay: 1 month
           vesting_period: 5 months
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: vrufp-cpibm-w6oja-wge3x-suodi-kohf3-walgv-ieywu-52fdx-ccrkq-lqe
+          stake: 37037 tokens
           memo: founder22
           dissolve_delay: 1 month
           vesting_period: 8 months
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: vrufp-cpibm-w6oja-wge3x-suodi-kohf3-walgv-ieywu-52fdx-ccrkq-lqe
+          stake: 37037 tokens
           memo: founder23
           dissolve_delay: 1 month
           vesting_period: 11 months
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: vrufp-cpibm-w6oja-wge3x-suodi-kohf3-walgv-ieywu-52fdx-ccrkq-lqe
+          stake: 37037 tokens
           memo: founder24
           dissolve_delay: 1 month
           vesting_period: 14 months
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: vrufp-cpibm-w6oja-wge3x-suodi-kohf3-walgv-ieywu-52fdx-ccrkq-lqe
+          stake: 37037 tokens
           memo: founder25
           dissolve_delay: 1 month
           vesting_period: 17 months
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: vrufp-cpibm-w6oja-wge3x-suodi-kohf3-walgv-ieywu-52fdx-ccrkq-lqe
+          stake: 37037 tokens
           memo: founder26
           dissolve_delay: 1 month
           vesting_period: 20 months
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: vrufp-cpibm-w6oja-wge3x-suodi-kohf3-walgv-ieywu-52fdx-ccrkq-lqe
+          stake: 37037 tokens
           memo: founder27
           dissolve_delay: 1 month
           vesting_period: 23 months
