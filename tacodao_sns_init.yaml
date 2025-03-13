@@ -118,7 +118,7 @@ Distribution:
     Neurons:
    
         - principal: th65x-be7bq-thkki-clkqi-kpt5z-td2ji-rnz7r-jzk6i-zsj4o-fd3yb-uae
-          stake: 58595.738 tokens
+          stake: 55818.738 tokens
           memo: founder1
           dissolve_delay: 1 month
           vesting_period: 0
@@ -279,116 +279,134 @@ Distribution:
           dissolve_delay: 1 month
           vesting_period: 23 months
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: 6lrxa-2ndwl-qhzbc-ioyy4-xiz6m-ix4by-3keek-mnybf-maa2a-4uiwt-tqe
+          stake: 155555 tokens
+          memo: frontend
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: 5rxbf-uplpq-gpnkg-kl2fd-6i67g-mzb7t-7zxip-gxzpf-o3woh-bryy5-aqe
+          stake: 39845.6 tokens
+          memo: art
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: jrnhz-6ekxv-2fffs-wfcgt-l3pe7-456id-heznf-xyf64-nykjq-4jyso-zae
+          stake: 37931.4 tokens
+          memo: airdrop
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: plehf-mi52t-3z3z6-odb6v-y6tfm-pijvz-ji7th-uslpf-gwwon-k7sfn-gae
+          stake: 15000 tokens
           memo: advisor1
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: xcdmb-5s24s-xuxsr-tglqd-stufc-dzs5z-izgv3-kuefn-xdbda-xdi4o-kqe
+          stake: 15000 tokens
           memo: advisor2
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: f3qow-odbkr-eyqs7-3mqnc-nvlhp-vx4rt-bbm7r-zardu-bawaw-jzkl6-rqe
+          stake: 15000 tokens
           memo: advisor3
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: 4ekhm-2azh6-wfdvl-s63w4-jg4g7-r7mu5-pc5jx-i6qju-fw3me-7okgf-jae
+          stake: 15000 tokens
           memo: advisor4
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: niyvd-koeyo-ddtyu-mgfwy-zrqae-o2yt3-pw5h2-nvv6p-tnqih-o56f2-oqe
+          stake: 5000 tokens
           memo: advisor5
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: w7po2-i7huw-m3whk-kc6hd-a5tw6-imqck-gybco-z2ra5-deeec-y7anu-fae
+          stake: 5000 tokens
           memo: advisor6
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: 7egl7-eu5ec-bcmoq-eymum-6nkjc-vlyvh-j54i2-olukc-psyk5-afj4d-2qe
+          stake: 7777 tokens
           memo: advisor7
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: xgid6-47muo-sqfb3-ca73y-5v7n2-2xxik-6js2n-wexwz-efvti-gxpgd-xqe
+          stake: 5000 tokens
           memo: advisor8
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: rx5m5-lpsbs-fskeb-62sf3-q3e5u-tvt6n-rgvnv-ri253-3c5je-mti7b-kae
+          stake: 5000 tokens
           memo: advisor9
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: 7ohni-sbpse-y327l-syhzk-jn6n4-hw277-erei5-xhkjr-lbh6b-rjqei-sqe
+          stake: 3007.7 tokens
           memo: advisor10
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: 6vebh-fjo2x-hd5ye-h43q3-onocw-riv37-cb6bb-bpmjc-aiyb7-er2ph-nae
+          stake: 3007.7 tokens
           memo: advisor11
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: mqirh-3biw7-id5dy-zcul7-6bvbc-itpdf-y5jbz-yp6af-qriid-5ltfv-yae
+          stake: 3007.7 tokens
           memo: advisor12
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: 3l3v5-qmwj6-mm7me-qgess-ri4yv-otnjj-jfmzb-zmkrk-nf4r2-nooit-cae
+          stake: 3007.7 tokens
           memo: advisor13
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: lqgbw-mdx3n-u2xgk-fidum-fwpaz-kyv6u-cd5y7-suj3u-jzjc7-ajj5j-iae
+          stake: 3007.7 tokens
           memo: advisor14
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: gbuwc-xrwtz-f4xiq-5zsmr-a5d2x-r5pbz-rexip-r4jgs-lz6u6-wnin3-zqe
+          stake: 3007.7 tokens
           memo: advisor15
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: drncv-oubne-4wzdj-mecj3-7aut7-pm6pa-bq3ac-supyi-ic4xt-dk3zv-fqe
+          stake: 3007.7 tokens
           memo: advisor16
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: c4ni6-b5ugz-jpt5j-igssn-o4bxh-tk7bn-cloc2-dgark-ncrgj-zougg-yqe
+          stake: 3007.7 tokens
           memo: advisor17
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: ooljm-hfaby-5gi7m-abj6k-ooufi-ncz2m-nzztf-xfpce-q2jmx-nzecl-xqe
+          stake: 3007.7 tokens
           memo: advisor18
           dissolve_delay: 0
           vesting_period: 0
 
-          - principal: YOUR_PRINCIPAL_ID
-          stake: 2_048_408 tokens
+          - principal: maal5-cbpad-knw2p-tr2d7-huysl-o5spi-w6rmj-r4b23-ahcvd-toayt-gqe
+          stake: 3007.7 tokens
           memo: advisor19
           dissolve_delay: 0
           vesting_period: 0
