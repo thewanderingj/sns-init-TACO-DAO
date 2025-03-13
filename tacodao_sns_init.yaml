@@ -226,7 +226,7 @@ Distribution:
           vesting_period: 23 months
 
           - principal: vrufp-cpibm-w6oja-wge3x-suodi-kohf3-walgv-ieywu-52fdx-ccrkq-lqe
-          stake:  36,296.667 tokens
+          stake:  36,254.241 tokens
           memo: founder19
           dissolve_delay: 1 month
           vesting_period: 0
