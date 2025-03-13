@@ -119,9 +119,711 @@ Distribution:
    
         - principal: YOUR_PRINCIPAL_ID
           stake: 2_048_408 tokens
-          memo: 0
-          dissolve_delay: 1 year
-          vesting_period: 1 year
+          memo: founder1
+          dissolve_delay: 1 month
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: founder2
+          dissolve_delay: 1 month
+          vesting_period: 2 months
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: founder3
+          dissolve_delay: 1 month
+          vesting_period: 5 months
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: founder4
+          dissolve_delay: 1 month
+          vesting_period: 8 months
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: founder5
+          dissolve_delay: 1 month
+          vesting_period: 11 months
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: founder6
+          dissolve_delay: 1 month
+          vesting_period: 14 months
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: founder7
+          dissolve_delay: 1 month
+          vesting_period: 17 months
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: founder8
+          dissolve_delay: 1 month
+          vesting_period: 20 months
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: founder9
+          dissolve_delay: 1 month
+          vesting_period: 23 months
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: founder10
+          dissolve_delay: 1 month
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: founder11
+          dissolve_delay: 1 month
+          vesting_period: 2 months
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: founder12
+          dissolve_delay: 1 month
+          vesting_period: 5 months
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: founder13
+          dissolve_delay: 1 month
+          vesting_period: 8 months
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: founder14
+          dissolve_delay: 1 month
+          vesting_period: 11 months
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: founder15
+          dissolve_delay: 1 month
+          vesting_period: 14 months
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: founder16
+          dissolve_delay: 1 month
+          vesting_period: 17 months
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: founder17
+          dissolve_delay: 1 month
+          vesting_period: 20 months
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: founder18
+          dissolve_delay: 1 month
+          vesting_period: 23 months
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: founder19
+          dissolve_delay: 1 month
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: founder20
+          dissolve_delay: 1 month
+          vesting_period: 2 months
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: founder21
+          dissolve_delay: 1 month
+          vesting_period: 5 months
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: founder22
+          dissolve_delay: 1 month
+          vesting_period: 8 months
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: founder23
+          dissolve_delay: 1 month
+          vesting_period: 11 months
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: founder24
+          dissolve_delay: 1 month
+          vesting_period: 14 months
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: founder25
+          dissolve_delay: 1 month
+          vesting_period: 17 months
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: founder26
+          dissolve_delay: 1 month
+          vesting_period: 20 months
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: founder27
+          dissolve_delay: 1 month
+          vesting_period: 23 months
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: advisor1
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: advisor2
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: advisor3
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: advisor4
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: advisor5
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: advisor6
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: advisor7
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: advisor8
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: advisor9
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: advisor10
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: advisor11
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: advisor12
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: advisor13
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: advisor14
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: advisor15
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: advisor16
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: advisor17
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: advisor18
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: advisor19
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap1
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap2
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap3
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap4
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap5
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap6
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap7
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap8
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap9
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap10
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap11
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap12
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap13
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap14
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap15
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap16
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap17
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap18
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap19
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap20
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap21
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap22
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap23
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap24
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap25
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap26
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap27
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap28
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap29
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap30
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap31
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap32
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap33
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap34
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap35
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap36
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap37
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap38
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap39
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap40
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap41
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap42
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap43
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap44
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap45
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap46
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap47
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap48
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap49
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap50
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap51
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap52
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap53
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap54
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap55
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap56
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap57
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap58
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap59
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap60
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap61
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap62
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap63
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap64
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap65
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap66
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap67
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap68
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap69
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap70
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap71
+          dissolve_delay: 0
+          vesting_period: 0
+
+          - principal: YOUR_PRINCIPAL_ID
+          stake: 2_048_408 tokens
+          memo: preswap72
+          dissolve_delay: 0
+          vesting_period: 0
 
     InitialBalances:
 
