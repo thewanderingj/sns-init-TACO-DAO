@@ -118,55 +118,55 @@ Distribution:
     Neurons:
    
         - principal: th65x-be7bq-thkki-clkqi-kpt5z-td2ji-rnz7r-jzk6i-zsj4o-fd3yb-uae
-          stake: 37827.971 tokens
+          stake: 38383.526 tokens
           memo: founder1
           dissolve_delay: 1 month
           vesting_period: 0
 
           - principal: th65x-be7bq-thkki-clkqi-kpt5z-td2ji-rnz7r-jzk6i-zsj4o-fd3yb-uae
-          stake: 37827.971 tokens
+          stake: 38383.526 tokens
           memo: founder2
           dissolve_delay: 1 month
           vesting_period: 2 months
 
           - principal: th65x-be7bq-thkki-clkqi-kpt5z-td2ji-rnz7r-jzk6i-zsj4o-fd3yb-uae
-          stake: 37827.971 tokens
+          stake: 38383.526 tokens
           memo: founder3
           dissolve_delay: 1 month
           vesting_period: 5 months
 
           - principal: th65x-be7bq-thkki-clkqi-kpt5z-td2ji-rnz7r-jzk6i-zsj4o-fd3yb-uae
-          stake: 37,827.971 tokens
+          stake: 38383.526 tokens
           memo: founder4
           dissolve_delay: 1 month
           vesting_period: 8 months
 
           - principal: th65x-be7bq-thkki-clkqi-kpt5z-td2ji-rnz7r-jzk6i-zsj4o-fd3yb-uae
-          stake: 37,827.971 tokens
+          stake: 38383.526 tokens
           memo: founder5
           dissolve_delay: 1 month
           vesting_period: 11 months
 
           - principal: th65x-be7bq-thkki-clkqi-kpt5z-td2ji-rnz7r-jzk6i-zsj4o-fd3yb-uae
-          stake: 37,827.971 tokens
+          stake: 38383.526 tokens
           memo: founder6
           dissolve_delay: 1 month
           vesting_period: 14 months
 
           - principal: th65x-be7bq-thkki-clkqi-kpt5z-td2ji-rnz7r-jzk6i-zsj4o-fd3yb-uae
-          stake: 37,827.971 tokens
+          stake: 38383.526 tokens
           memo: founder7
           dissolve_delay: 1 month
           vesting_period: 17 months
 
           - principal: th65x-be7bq-thkki-clkqi-kpt5z-td2ji-rnz7r-jzk6i-zsj4o-fd3yb-uae
-          stake: 37,827.971 tokens
+          stake: 38383.526 tokens
           memo: founder8
           dissolve_delay: 1 month
           vesting_period: 20 months
 
           - principal: th65x-be7bq-thkki-clkqi-kpt5z-td2ji-rnz7r-jzk6i-zsj4o-fd3yb-uae
-          stake: 37,827.971 tokens
+          stake: 38383.526 tokens
           memo: founder9
           dissolve_delay: 1 month
           vesting_period: 23 months
