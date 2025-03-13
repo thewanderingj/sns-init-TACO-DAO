@@ -118,7 +118,7 @@ Distribution:
     Neurons:
    
         - principal: th65x-be7bq-thkki-clkqi-kpt5z-td2ji-rnz7r-jzk6i-zsj4o-fd3yb-uae
-          stake: 50302.356 tokens
+          stake: 50952.956 tokens
           memo: founder1
           dissolve_delay: 1 month
           vesting_period: 0
@@ -172,7 +172,7 @@ Distribution:
           vesting_period: 23 months
 
           - principal: llfag-3kg4c-3kitv-fz3kg-xia7l-ya4u6-u577s-hzm7x-o2pdr-likn5-lqe
-          stake: 50,436.497 tokens
+          stake: 51,087.097 tokens
           memo: founder10
           dissolve_delay: 1 month
           vesting_period: 0
@@ -226,7 +226,7 @@ Distribution:
           vesting_period: 23 months
 
           - principal: vrufp-cpibm-w6oja-wge3x-suodi-kohf3-walgv-ieywu-52fdx-ccrkq-lqe
-          stake:  48,755.687 tokens
+          stake:  49,406.287 tokens
           memo: founder19
           dissolve_delay: 1 month
           vesting_period: 0
