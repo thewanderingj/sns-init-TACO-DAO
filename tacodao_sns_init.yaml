@@ -118,163 +118,163 @@ Distribution:
     Neurons:
    
         - principal: th65x-be7bq-thkki-clkqi-kpt5z-td2ji-rnz7r-jzk6i-zsj4o-fd3yb-uae
-          stake: 50952.956 tokens
+          stake: 38383.5264 tokens
           memo: founder1
           dissolve_delay: 1 month
           vesting_period: 0
 
           - principal: th65x-be7bq-thkki-clkqi-kpt5z-td2ji-rnz7r-jzk6i-zsj4o-fd3yb-uae
-          stake: 38383.526 tokens
+          stake: 38383.5264 tokens
           memo: founder2
           dissolve_delay: 1 month
           vesting_period: 2 months
 
           - principal: th65x-be7bq-thkki-clkqi-kpt5z-td2ji-rnz7r-jzk6i-zsj4o-fd3yb-uae
-          stake: 38383.526 tokens
+          stake: 38383.5264 tokens
           memo: founder3
           dissolve_delay: 1 month
           vesting_period: 5 months
 
           - principal: th65x-be7bq-thkki-clkqi-kpt5z-td2ji-rnz7r-jzk6i-zsj4o-fd3yb-uae
-          stake: 38383.526 tokens
+          stake: 38383.5264 tokens
           memo: founder4
           dissolve_delay: 1 month
           vesting_period: 8 months
 
           - principal: th65x-be7bq-thkki-clkqi-kpt5z-td2ji-rnz7r-jzk6i-zsj4o-fd3yb-uae
-          stake: 38383.526 tokens
+          stake: 38383.5264 tokens
           memo: founder5
           dissolve_delay: 1 month
           vesting_period: 11 months
 
           - principal: th65x-be7bq-thkki-clkqi-kpt5z-td2ji-rnz7r-jzk6i-zsj4o-fd3yb-uae
-          stake: 38383.526 tokens
+          stake: 38383.5264 tokens
           memo: founder6
           dissolve_delay: 1 month
           vesting_period: 14 months
 
           - principal: th65x-be7bq-thkki-clkqi-kpt5z-td2ji-rnz7r-jzk6i-zsj4o-fd3yb-uae
-          stake: 38383.526 tokens
+          stake: 38383.5264 tokens
           memo: founder7
           dissolve_delay: 1 month
           vesting_period: 17 months
 
           - principal: th65x-be7bq-thkki-clkqi-kpt5z-td2ji-rnz7r-jzk6i-zsj4o-fd3yb-uae
-          stake: 38383.526 tokens
+          stake: 38383.5264 tokens
           memo: founder8
           dissolve_delay: 1 month
           vesting_period: 20 months
 
           - principal: th65x-be7bq-thkki-clkqi-kpt5z-td2ji-rnz7r-jzk6i-zsj4o-fd3yb-uae
-          stake: 38383.526 tokens
+          stake: 38383.5264 tokens
           memo: founder9
           dissolve_delay: 1 month
           vesting_period: 23 months
 
           - principal: llfag-3kg4c-3kitv-fz3kg-xia7l-ya4u6-u577s-hzm7x-o2pdr-likn5-lqe
-          stake: 51,087.097 tokens
+          stake: 38517.6667 tokens
           memo: founder10
           dissolve_delay: 1 month
           vesting_period: 0
 
           - principal: llfag-3kg4c-3kitv-fz3kg-xia7l-ya4u6-u577s-hzm7x-o2pdr-likn5-lqe
-          stake: 38,517.667 tokens
+          stake: 38517.6667 tokens
           memo: founder11
           dissolve_delay: 1 month
           vesting_period: 2 months
 
           - principal: llfag-3kg4c-3kitv-fz3kg-xia7l-ya4u6-u577s-hzm7x-o2pdr-likn5-lqe
-          stake: 38,517.667 tokens
+          stake: 38517.6667 tokens
           memo: founder12
           dissolve_delay: 1 month
           vesting_period: 5 months
 
           - principal: llfag-3kg4c-3kitv-fz3kg-xia7l-ya4u6-u577s-hzm7x-o2pdr-likn5-lqe
-          stake: 38,517.667 tokens
+          stake: 38517.6667 tokens
           memo: founder13
           dissolve_delay: 1 month
           vesting_period: 8 months
 
           - principal: llfag-3kg4c-3kitv-fz3kg-xia7l-ya4u6-u577s-hzm7x-o2pdr-likn5-lqe
-          stake: 38,517.667 tokens
+          stake: 38517.6667 tokens
           memo: founder14
           dissolve_delay: 1 month
           vesting_period: 11 months
 
           - principal: llfag-3kg4c-3kitv-fz3kg-xia7l-ya4u6-u577s-hzm7x-o2pdr-likn5-lqe
-          stake: 38,517.667 tokens
+          stake: 38517.6667 tokens
           memo: founder15
           dissolve_delay: 1 month
           vesting_period: 14 months
 
           - principal: llfag-3kg4c-3kitv-fz3kg-xia7l-ya4u6-u577s-hzm7x-o2pdr-likn5-lqe
-          stake: 38,517.667 tokens
+          stake: 38517.6667 tokens
           memo: founder16
           dissolve_delay: 1 month
           vesting_period: 17 months
 
           - principal: llfag-3kg4c-3kitv-fz3kg-xia7l-ya4u6-u577s-hzm7x-o2pdr-likn5-lqe
-          stake: 38,517.667 tokens
+          stake: 38517.6667 tokens
           memo: founder17
           dissolve_delay: 1 month
           vesting_period: 20 months
 
           - principal: llfag-3kg4c-3kitv-fz3kg-xia7l-ya4u6-u577s-hzm7x-o2pdr-likn5-lqe
-          stake: 38,517.667 tokens
+          stake: 38517.6667 tokens
           memo: founder18
           dissolve_delay: 1 month
           vesting_period: 23 months
 
           - principal: vrufp-cpibm-w6oja-wge3x-suodi-kohf3-walgv-ieywu-52fdx-ccrkq-lqe
-          stake:  49,406.287 tokens
+          stake:  36291.9529 tokens
           memo: founder19
           dissolve_delay: 1 month
           vesting_period: 0
 
           - principal: vrufp-cpibm-w6oja-wge3x-suodi-kohf3-walgv-ieywu-52fdx-ccrkq-lqe
-          stake:  36,296.667 tokens
+          stake:  36291.9529 tokens
           memo: founder20
           dissolve_delay: 1 month
           vesting_period: 2 months
 
           - principal: vrufp-cpibm-w6oja-wge3x-suodi-kohf3-walgv-ieywu-52fdx-ccrkq-lqe
-          stake:  36,296.667 tokens
+          stake:  36291.9529 tokens
           memo: founder21
           dissolve_delay: 1 month
           vesting_period: 5 months
 
           - principal: vrufp-cpibm-w6oja-wge3x-suodi-kohf3-walgv-ieywu-52fdx-ccrkq-lqe
-          stake:  36,296.667 tokens
+          stake:  36291.9529 tokens
           memo: founder22
           dissolve_delay: 1 month
           vesting_period: 8 months
 
           - principal: vrufp-cpibm-w6oja-wge3x-suodi-kohf3-walgv-ieywu-52fdx-ccrkq-lqe
-          stake:  36,296.667 tokens
+          stake:  36291.9529 tokens
           memo: founder23
           dissolve_delay: 1 month
           vesting_period: 11 months
 
           - principal: vrufp-cpibm-w6oja-wge3x-suodi-kohf3-walgv-ieywu-52fdx-ccrkq-lqe
-          stake:  36,296.667 tokens
+          stake:  36291.9529 tokens
           memo: founder24
           dissolve_delay: 1 month
           vesting_period: 14 months
 
           - principal: vrufp-cpibm-w6oja-wge3x-suodi-kohf3-walgv-ieywu-52fdx-ccrkq-lqe
-          stake:  36,296.667 tokens
+          stake:  36291.9529 tokens
           memo: founder25
           dissolve_delay: 1 month
           vesting_period: 17 months
 
           - principal: vrufp-cpibm-w6oja-wge3x-suodi-kohf3-walgv-ieywu-52fdx-ccrkq-lqe
-          stake:  36,296.667 tokens
+          stake:  36291.9529 tokens
           memo: founder26
           dissolve_delay: 1 month
           vesting_period: 20 months
 
           - principal: vrufp-cpibm-w6oja-wge3x-suodi-kohf3-walgv-ieywu-52fdx-ccrkq-lqe
-          stake:  36,296.667 tokens
+          stake:  36291.9529 tokens
           memo: founder27
           dissolve_delay: 1 month
           vesting_period: 23 months
@@ -562,7 +562,7 @@ Distribution:
           vesting_period: 0
 
           - principal: fywqa-zjhpp-bq2pt-jffa7-uj6rd-oeekx-vzxau-vgwx5-q3csk-mkchj-2qe
-          stake: 7,241.68 tokens
+          stake: 7241.68 tokens
           memo: preswap26
           dissolve_delay: 0
           vesting_period: 0
